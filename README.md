@@ -1,1 +1,1 @@
-# lzf-daily-notes
+# 我的每日笔记
