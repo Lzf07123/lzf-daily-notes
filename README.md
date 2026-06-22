@@ -1,0 +1,1 @@
+# lzf-daily-notes
