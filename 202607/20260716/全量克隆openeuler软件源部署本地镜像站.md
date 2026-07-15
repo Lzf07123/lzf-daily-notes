@@ -23,4 +23,7 @@ reposync --download-metadata -p /opt/repo --repo OS --repo everything --repo EPO
 
 #repocreate为仓库创建元数据索引
 createrepo /opt/repo
+
+#openeuler22.09软件源共享
+链接：https://pan.baidu.com/s/1NTvxY6AmAXDLvdl85g39bw?pwd=VD82
 ```
