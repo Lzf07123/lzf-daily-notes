@@ -12,7 +12,7 @@
   1. 为glance组件创建数据库并授权
   2. 加载keystone认证环境变量
   3. 向keystone注册service项目
-  4. 向keystone注册glance用户、服务、数据端点。为用户授权
+  4. 向keystone注册glance用户、服务、数据端点，并为用户授权
   5. 安装glance软件包，修改配置文件`数据库、keystone认证、认证提供、存储配置`配置段，启动服务并开启开机自启
 
 ---
