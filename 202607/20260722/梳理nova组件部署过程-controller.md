@@ -1,4 +1,4 @@
-# 梳理nova组件部署过程-comtroller
+# 梳理nova组件部署过程-controller
 
 ## Context
 
